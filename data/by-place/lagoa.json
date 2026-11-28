@@ -262,10 +262,62 @@
   "gaps_intro": "Here is what we could not find, and yes, we looked behind the fishing boats too."
  },
  "latest_news": {
-  "read_at": "2026-11-28T07:36Z",
+  "read_at": "2026-11-28T07:37:37Z",
   "by": "place.lagoa@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
-  "main_headline": null,
-  "items": []
+  "main_headline": {
+   "title": "Lagoa dos Salgados tem prazo para ser reserva natural e SPEA-BirdLife quer modelo de gestão",
+   "url": "https://www.barlavento.pt/lagoa-salgados-reserva-natural-2027-spea-birdlife/",
+   "source": "Barlavento",
+   "date": "2026-11-26",
+   "read_at": "2026-11-28T07:31:22Z",
+   "names_place": true
+  },
+  "items": [
+   {
+    "title": "Lagoa dos Salgados tem prazo para ser reserva natural e SPEA-BirdLife quer modelo de gestão",
+    "url": "https://www.barlavento.pt/lagoa-salgados-reserva-natural-2027-spea-birdlife/",
+    "published": "2026-11-26T09:18Z",
+    "date": "2026-11-26",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Lagoa&feed=rss2",
+    "read_at": "2026-11-28T07:31:22Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Livro «Quebrar em caso de emergência climática» da Climáximo apresentado em Lagoa",
+    "url": "https://www.barlavento.pt/quebrar-caso-emergencia-climatica-lagoa/",
+    "published": "2026-11-24T11:19Z",
+    "date": "2026-11-24",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Lagoa&feed=rss2",
+    "read_at": "2026-11-28T07:31:22Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Frei Luís de Sousa sobe ao palco do Auditório Carlos do Carmo em Lagoa",
+    "url": "https://www.barlavento.pt/frei-luis-sousa-lagoa/",
+    "published": "2026-11-24T10:27Z",
+    "date": "2026-11-24",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Lagoa&feed=rss2",
+    "read_at": "2026-11-28T07:31:22Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Lagoa abre quiosque Volta para devolução de garrafas e latas na FATACIL",
+    "url": "https://www.barlavento.pt/quiosque-volta-lagoa-fatacil/",
+    "published": "2026-11-13T21:18Z",
+    "date": "2026-11-13",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Lagoa&feed=rss2",
+    "read_at": "2026-11-28T07:31:22Z",
+    "mentions_place": true
+   }
+  ]
  }
 }
